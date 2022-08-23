@@ -1,0 +1,183 @@
+body {
+  color: white;
+}
+
+main {
+  margin: 0;
+  color: aliceblue;
+}
+
+/* #pg0 {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  background-image: linear-gradient(180deg, #05735a, #014d33);
+}
+
+#big-text {
+  font-size: 5rem;
+  margin: 2rem;
+  margin-top: 35%;
+}
+
+#text-container {
+  padding: 1rem;
+}
+
+#pg0 img {
+  margin: 0;
+  width: auto;
+  height: 100vh;
+  float: right;
+  margin-left: 18.2rem;
+  border-bottom-left-radius: 1000px;
+  border-top-left-radius: 1000px;
+} */
+
+#pg1 {
+  height: 100vh;
+  background-color: #ff4a1c;
+  margin: 0;
+}
+
+#welcome-text {
+  margin-top: 2rem;
+  font-size: 2.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.swolios {
+  font-family: "Mochiy Pop One", "Zhi Mang Xing", sans-serif, cursive;
+}
+
+.text-box {
+  padding: 3rem;
+}
+
+.categories ul li {
+  list-style: none;
+  margin-bottom: 2rem;
+}
+
+.categories ul li a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.categories {
+  display: flex;
+}
+
+#categories1,
+#categories2,
+#categories3 {
+  justify-content: center;
+  width: 20%;
+}
+
+#categories1 {
+  margin-left: 5%;
+  margin-right: 0%;
+}
+
+#categories2 {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#categories3 {
+  margin-left: 0%;
+  margin-right: 5%;
+}
+
+.button {
+  background-color: #f53100;
+  padding: 0.00075rem;
+  border-radius: 5px;
+  justify-content: center;
+}
+
+.button:hover {
+  background-color: #ff6c47;
+}
+
+.categories ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.categories ul li a div p {
+  font-size: 1.25rem;
+}
+
+.categories-list {
+  margin-top: 2rem;
+}
+
+#pg2 {
+  background-color: #f81;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu-item {
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.menu-container {
+  padding: 1rem;
+  margin: 2rem;
+  margin-left: 2.75rem;
+}
+
+#menu-container1 {
+  margin-right: 0;
+}
+
+#menu-container2 {
+  margin-right: 2.75rem;
+}
+
+.food {
+  display: flex;
+}
+
+#food1,
+#food3 {
+  margin-bottom: 2rem;
+}
+
+.food-text {
+  margin-left: 2rem;
+}
+
+.special-breakfast{
+  display: flex;
+  justify-content: center;
+}
+
+.special-breakfast-item {
+  height: 300px;
+  width: 450px;
+  margin: 2rem;
+  /* margin-left: 6.75rem; */
+  border-radius: 15px;
+}
+
+.special-breakfast-text {
+  margin-top: 7%;
+}
+
+.special-breakfast-text1 {
+  margin-top: 13%;
+}
+
+.breakfast {
+  margin: 0;
+  padding-top: 2rem;
+  font-size: 3rem;
+}

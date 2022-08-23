@@ -1,0 +1,44 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  background-color: #ff8811;
+  display: flex;
+  padding: 1rem;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+header a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+header li {
+  list-style: none;
+  display: inline;
+  margin-left: 20%;
+}
+
+#logo {
+  float: left;
+  width: 17.5%;
+  text-align: center;
+  font-family: "Mochiy Pop One", "Zhi Mang Xing", sans-serif, cursive;
+}
+
+nav {
+  float: right;
+  margin-left: 25%;
+  vertical-align: middle;
+  width: 57.5%;
+  margin-top: 1%;
+  font-size: large;
+}
+
+.text-center {
+  text-align: center;
+}
