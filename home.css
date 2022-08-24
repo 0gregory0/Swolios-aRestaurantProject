@@ -181,3 +181,20 @@ main {
   padding-top: 2rem;
   font-size: 3rem;
 }
+
+#pg3 {
+  background-color: #329f5b;
+}
+
+.menu-item-drink {
+  height: 300px;
+  border-radius: 5px;
+}
+
+#menu-container1-2 {
+  width: 61.25%;
+}
+
+#pg4 {
+  background-color: #0a1045;
+}
